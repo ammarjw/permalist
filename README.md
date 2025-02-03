@@ -1,8 +1,8 @@
-# Parmalist
+# Permalist
 
 This project is a simple to-do list application where users can add, edit, and delete tasks. It stores data in a PostgreSQL database, allowing for persistent task management. The goal of this project was to gain experience with CRUD operations, server-side rendering, and database integration.
 
-![App Screenshot](public/assets/img/parmalist.png)
+![App Screenshot](public/assets/img/permalist.png)
 
 ## Features
 - Add new tasks to your to-do list.
@@ -23,8 +23,8 @@ This project is a simple to-do list application where users can add, edit, and d
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ammarjw/parmalist.git
-   cd parmalist
+   git clone https://github.com/ammarjw/permalist.git
+   cd permalist
    ```
 
 2. **Install dependencies:**
